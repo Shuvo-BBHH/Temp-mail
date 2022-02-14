@@ -8,12 +8,17 @@ pkg install python2 -y
 
 pkg install git
 
-git clone https://github.com/Shuvo-BBHH/Temp-mail
-
 pip install requests
 
 pip install mechanize
 
-cd Temp-Mail
+git clone https://github.com/Shuvo-BBHH/Temp-mail
+
+
+cd Temp-mail
 
 python3 mahdi.py
+
+
+
+![Uploading image.png…]()
